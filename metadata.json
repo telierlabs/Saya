@@ -1,0 +1,8 @@
+{
+  "name": "Vynix - Streaming Film AI",
+  "description": "A futuristic AI-powered streaming platform featuring movie playback, personalized recommendations, and AI image editing capabilities.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
